@@ -52,7 +52,7 @@ exclusively compatible with specific versions of Poko.
 
 | Kotlin version  | Poko version | Extra Care version |
 | --------------- | ------------ | ------------------ |
-| 1.5.0 – 1.5.10  | 0.8.1        | N/A                |
+| 1.5.0 – 1.5.20  | 0.8.1        | N/A                |
 | 1.4.30 – 1.4.32 | 0.7.4        | 0.6.0              |
 | 1.4.20 – 1.4.21 | N/A          | 0.5.0              |
 | 1.4.0 – 1.4.10  | N/A          | 0.3.1              |
